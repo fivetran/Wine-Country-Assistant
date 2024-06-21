@@ -1,0 +1,6 @@
+databricks-vectorsearch
+streamlit
+langchain
+langchain-community
+openai
+langchain-openai
